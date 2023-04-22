@@ -1,1 +1,1 @@
-# GifFromPatterns
+# Gif-From-Patterns
